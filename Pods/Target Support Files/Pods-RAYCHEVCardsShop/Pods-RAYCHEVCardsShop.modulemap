@@ -1,0 +1,6 @@
+framework module Pods_RAYCHEVCardsShop {
+  umbrella header "Pods-RAYCHEVCardsShop-umbrella.h"
+
+  export *
+  module * { export * }
+}
